@@ -26,3 +26,6 @@ Q6. Write a program to print all the ASCII values and their equivalent character
 loop.
 
 
+![Screenshot 2024-02-28 210516](https://github.com/tsaraljain/Loops-Assignment1/assets/159905265/3a8ab12f-5f94-4a9d-961d-5715a8a2830d)
+
+
