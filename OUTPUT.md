@@ -20,3 +20,9 @@ Q4. Display this AP - 4,7,10,13,16.. upto ‘n’ terms.
 Q5. Display this GP - 3,12,48,.. upto ‘n’ terms.
 
 
+![Screenshot 2024-02-28 204532](https://github.com/tsaraljain/Loops-Assignment1/assets/159905265/c6c8f786-249e-4a2f-8e39-f8663fae9f12)
+
+Q6. Write a program to print all the ASCII values and their equivalent characters of 26 alphabets using a while
+loop.
+
+
