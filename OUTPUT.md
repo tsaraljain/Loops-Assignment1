@@ -13,3 +13,10 @@ Q3. Print the table of ‘n’. Here ‘n’ is an integer which the user will i
 ![Screenshot 2024-02-28 203952](https://github.com/tsaraljain/Loops-Assignment1/assets/159905265/8767643d-29d3-4500-88c6-589d8c1cee66)
 
 
+Q4. Display this AP - 4,7,10,13,16.. upto ‘n’ terms.
+
+![Screenshot 2024-02-28 204318](https://github.com/tsaraljain/Loops-Assignment1/assets/159905265/8e0faa08-60c5-49ff-897b-d25120c6026b)
+
+Q5. Display this GP - 3,12,48,.. upto ‘n’ terms.
+
+
